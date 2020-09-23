@@ -1,0 +1,28 @@
+Component;Description;Part;References;Value;Footprint;Quantity Per PCB;Datasheet;manf#;lcsc#
+1;Unpolarized capacitor;C;C2 C3 C6 C7 C10 C11;100n;C_0603_1608Metric;6;;CL10B104KB8NNNC;C1591
+2;Unpolarized capacitor;C;C1 C4 C5 C8 C9 C12;10u;R_1206_3216Metric;6;;CL31B106KBHNNNE;C89632
+3;Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/);Conn_01x06_Female;J1;Step_0_In;PinSocket_1x06_P2.54mm_Vertical;1;;;
+4;Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/);Conn_01x06_Female;J2;Step_0_Out;PinSocket_1x06_P2.54mm_Vertical;1;;;
+5;Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/);Conn_01x06_Female;J3;Step_1_In;PinSocket_1x06_P2.54mm_Vertical;1;;;
+6;Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/);Conn_01x06_Female;J4;Step_1_Out;PinSocket_1x06_P2.54mm_Vertical;1;;;
+7;Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/);Conn_01x04_Female;J5;UART_In;PinSocket_1x04_P2.54mm_Vertical;1;;;
+8;Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/);Conn_01x04_Female;J6;UART_Out;PinSocket_1x04_P2.54mm_Vertical;1;;;
+9;Resistor;R;R3 R4 R5 R6 R9 R10 R11 R12 R13 R14;0R;R_0603_1608Metric;10;;0603WAF0000T5E;C21189
+10;Resistor;R;R1 R2 R7 R8;4.7k;R_0603_1608Metric;4;;0603WAF4701T5E;C23162
+11;Low Power Dual-Channel 1/1 Digital Isolator, 25Mbps 33ns, Fail-Safe High, SO8;ISO7321C;U3;ISO6721 / ISO7721;SOIC-8_3.9x4.9mm_P1.27mm;1;http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=iso7321c&fileType=pdf;ISO7721FDR;
+12;Low Power Quad-Channel 3/1 Digital Isolator, 25Mbps 31ns, Fail-Safe High, SO16;ISO7341FC;U1 U2;ISO6741 / ISO7741;SOIC-16W_7.5x10.3mm_P1.27mm;2;http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=iso7341c&fileType=pdf;ISO7741FDWR;
+
+
+
+
+
+Component Groups:;12
+Component Count:;35
+Fitted Components:;35
+Number of PCBs:;1
+Total components:;35
+Schematic Version:;0.1
+Schematic Date:;2020-09-23
+BoM Date:;23.09.2020 17:55:18
+Schematic Source:;C:\Users\User\Documents\Git\Isolator\Isolator.sch
+KiCad Version:;Eeschema (5.1.5)-3
