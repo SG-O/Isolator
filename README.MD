@@ -1,4 +1,4 @@
-# Tripple Isolator for two Step/Dir/En and one UART signal #
+# Triple Isolator for two Step/Dir/En and one UART signal #
 
 This was designed to be used with the [ODrive](https://github.com/madcowswe/ODrive "ODrive") motor controller. It may be useful for other things though.
 
